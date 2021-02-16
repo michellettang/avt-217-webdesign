@@ -1,0 +1,33 @@
+body {
+  background-image: linear-gradient(to right, white , #ffd76b);
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+
+h1 {
+  color: #edae02;
+  font-size: 100px;}
+
+
+
+h2 {
+  color: black;
+    font-style: italic;}
+
+
+
+p {
+  color: #edae02;
+  font-size: 70px;}
+
+
+a{
+    color: #edae02;}
+
+
+a:hover {
+  color: white;
+  background-color: #9c9176;
+}
