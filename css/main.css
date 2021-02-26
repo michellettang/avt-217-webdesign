@@ -1,4 +1,32 @@
 body {
   background-color: #dbd0d4;
+  background: radial-gradient(white, #b38896);
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2em;}
 
-}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  color: #8a5a6a;}
+
+
+
+
+h3 {
+  color: #421d2a;}
+
+
+
+#list {
+  color: white;}
+
+
+
+a{
+    color: white;}
+
+
+a:hover {
+  color: white;
+  background-color: #633746;}
