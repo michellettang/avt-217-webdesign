@@ -1,4 +1,4 @@
-.mSquare {
+.aSquare {
   width: 100px;
   height: 100px;
   background-color: magenta;
@@ -10,7 +10,7 @@
 }
 
 
-.ySquare {
+.bSquare {
   width: 100px;
   height: 100px;
   background-color: yellow;
@@ -20,7 +20,7 @@
   float: left;
 }
 
-.kSquare {
+.cSquare {
   width: 100px;
   height: 100px;
   background-color: cyan;
