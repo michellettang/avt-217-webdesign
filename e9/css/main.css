@@ -1,0 +1,33 @@
+.mSquare {
+  width: 100px;
+  height: 100px;
+  background-color: magenta;
+  border: 10px solid black;
+  margin: -15px;
+  opacity:.75;
+  float: left;
+  border-radius: 50%
+}
+
+
+
+.ySquare {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: 10px solid black;
+  margin: -15px;
+  opacity:.75;
+  float: left;
+}
+
+
+.ykSquare {
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  border: 10px solid black;
+  margin: -15px;
+  opacity:.75;
+  float: left;
+}
