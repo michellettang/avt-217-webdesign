@@ -138,3 +138,50 @@
   border-radius: 50%;
   border: 5px solid black;
 }
+
+
+
+
+
+
+.oSquare {
+  width: 100px;
+  height: 100px;
+  background-color: #dd75ff;
+  margin: -15px;
+  opacity:.50;
+  float: left;
+  border-radius: 50%
+}
+
+.pSquare {
+  width: 100px;
+  height: 100px;
+  background-color: #af75ff;
+  margin: -15px;
+  opacity:.50;
+  float: left;
+  border-radius: 50%
+}
+
+.qSquare {
+  width: 100px;
+  height: 100px;
+  background-color: #7575ff;
+  margin: -15px;
+  opacity:.50;
+  float: left;
+  border-radius: 50%
+}
+
+
+
+.rSquare {
+  width: 100px;
+  height: 100px;
+  background-color: #759dff;
+  margin: -15px;
+  opacity:.50;
+  float: left;
+  border-radius: 50%
+}
