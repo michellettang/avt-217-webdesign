@@ -1,6 +1,4 @@
 body {
-  background-color: #dbd0d4;
-  background: radial-gradient(white, #b38896);
   font-family: 'Raleway', sans-serif;
   font-size: 1.5em;}
 
@@ -29,26 +27,57 @@ main {
 
 h1 {
   font-size: 3em;
-  text-align: center;
-  color: #8a5a6a;}
-
-
+  text-align: left;
+  color: slateblue;}
 
 
 h2 {
-  color: #421d2a;}
+  color: steelblue;}
+
+
+li {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 10px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+
+}
 
 
 
-#list {
-  color: white;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 
 
-
-a{
-    color: #421d2a;}
 
 
 a:hover {
   color: white;
-  background-color: #633746;}
+  background-color: lightblue;}
+
+
+
+@media screen and (max-width: 1280px) {
+  .col {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  header {
+    width: 90vw;
+  }
+  main {
+    width: 90vw;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  body {
+    background-color: mintcream;
+  }
+}
