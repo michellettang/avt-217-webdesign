@@ -1,8 +1,30 @@
 body {
   background-color: #dbd0d4;
   background: radial-gradient(white, #b38896);
-  font-family: 'Nanum Pen Script', cursive;
-  font-size: 2em;}
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;}
+
+
+header {
+  width: 75vw;
+  margin: 25px auto;
+/****background-color: blue;*****/
+}
+
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+/****background-color: yellow;*****/
+}
+
+
+.col {
+  width: 50%;
+  float: left;
+  /****background-color: red;*****/
+}
+
 
 
 h1 {
@@ -13,7 +35,7 @@ h1 {
 
 
 
-h3 {
+h2 {
   color: #421d2a;}
 
 
@@ -24,7 +46,7 @@ h3 {
 
 
 a{
-    color: white;}
+    color: #421d2a;}
 
 
 a:hover {
