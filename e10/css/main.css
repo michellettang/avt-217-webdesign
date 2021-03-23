@@ -1,3 +1,24 @@
 body {
   font-family: 'Raleway', sans-serif;
   font-size: 1.5em;}
+
+
+.black {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.board {
+  width: 800px;
+  display: flow-root;
+}
