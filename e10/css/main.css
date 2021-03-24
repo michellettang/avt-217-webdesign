@@ -1,6 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
+  background: coral;
 }
 
 
@@ -31,26 +32,27 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: blue;
+  background-color: white;
 }
 
 main {
   width: 75vw;
   margin: 25px auto;
   display: flow-root;
-  background-color: yellow;
+  /*background-color: yellow;*/
 }
 
 footer {
   width: 75vw;
   margin: 25px auto;
   display: flow-root;
-  background-color: cyan;
+  background-color: tomato;
 }
 
 
 .col {
-  width: 50%;
-  background-color: red;
+  width: 30%;
+  background-color: lightsalmon;
   float: left;
+  border: 5px solid white;
 }
