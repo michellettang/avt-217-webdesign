@@ -30,23 +30,23 @@ body {
 
 
 header {
-  width: 75vw;
+  width: 1000px;
   height: 150px;
-  margin: 25px auto;
+  margin: auto;
   background-color: peachpuff;
   text-align: center;
 }
 
 main {
-  width: 75vw;
-  margin: 25px auto;
+  width: 1000px;
+  margin: 10px auto;
   display: flow-root;
   /*background-color: yellow;*/
 }
 
 footer {
-  width: 75vw;
-  margin: 25px auto;
+  width: 1000px;
+  margin: 100px auto;
   display: flow-root;
   background-color: tomato;
   text-align: center;
@@ -69,15 +69,22 @@ footer {
 
 
 
-.container {
-  background-color: red;
-  width: 1000px;
+.newheader {
+  /*background-color: cyan;*/
+  margin: 0px 0px 100px 0px;
+}
 
+
+.container {
+  /*background-color: red;*/
+  width: 1000px;
+  display: flow-root;
+  margin: 0px 0px 100px 0px;
 }
 
 
 .mainbox {
-  background-color: green;
+  background-color: DarkSeaGreen;
   text-align: center;
   width: 700px;
   height: 400px;
@@ -88,7 +95,7 @@ footer {
 
 
 .rightbox {
-  background-color: blue;
+  background-color: DarkSlateGrey;
   text-align: center;
   width: 200px;
   height: 250px;
@@ -99,7 +106,7 @@ footer {
 
 
 .bottombox {
-  background-color: magenta;
+  background-color: MintCream;
   text-align: center;
   width: 700px;
   height: 40px;
