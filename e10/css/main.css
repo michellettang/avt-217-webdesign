@@ -80,6 +80,7 @@ footer {
   width: 1000px;
   display: flow-root;
   margin: 0px 0px 100px 0px;
+  float: left;
 }
 
 
