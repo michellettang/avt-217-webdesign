@@ -1,0 +1,16 @@
+body {
+  background-color: lightsteelblue;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*img {
+  border: 2px solid red;
+}*/
+
+
+.responsive {
+  width: 20%;
+  height: auto;
+  margin: 15px;
+
+}
