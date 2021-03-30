@@ -1,0 +1,74 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2em;
+  background: Lightgrey;
+}
+
+
+.black {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+
+
+.board {
+  width: 800px;
+  display: flow-root;
+}
+
+
+header, footer {
+width: 800px;
+height: 100px;
+background-color: pink;
+margin-bottom: 25px;
+}
+
+
+
+nav {
+  width: 800px;
+  height: 25px;
+  background-color: gold;
+}
+
+
+main {
+  display: flow-root;
+}
+
+
+.column {
+  width: 250px;
+  height: 400px;
+  background-color: black;
+  margin-right: 25px;
+  float: left;
+}
+
+
+.margins {
+  margin-left: 25px;
+  margin-right: 25px;
+  background-color: grey;
+}
+
+
+footer {
+  width: 800px;
+  height: 100px;
+  background-color: lime green;
+  margin-right: 25px;
+  float: left;
+}
