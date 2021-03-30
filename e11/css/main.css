@@ -1,0 +1,194 @@
+body {
+  background-color: LemonChiffon;
+}
+
+
+.floor {
+  width: 1500px;
+  height: 80px;
+  background-color: tan;
+  border: 20px;
+  position: absolute;
+  top: 700px;
+  left: 0px;
+}
+
+
+.window {
+  width: 500px;
+  height: 320px;
+  background-color: white;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+}
+
+
+.clockrim {
+  width: 150px;
+  height: 150px;
+  background-color: pink;
+  border-radius: 30px;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+
+.clock {
+  width: 130px;
+  height: 130px;
+  background-color: white;
+  border-radius: 20px;
+  border: 20px;
+  position: absolute;
+  top: 110px;
+  left: 110px;
+}
+
+
+.clockdot {
+  width: 15px;
+  height: 15px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 165px;
+  left: 165px;
+}
+
+.clockminuet {
+  width: 5px;
+  height: 60px;
+  background-color: black;
+  position: absolute;
+  top: 170px;
+  left: 170px;
+}
+
+
+.clockhour{
+  width: 40px;
+  height: 5px;
+  background-color: black;
+  position: absolute;
+  top: 170px;
+  left: 170px;
+}
+
+
+
+.grass {
+  width: 500px;
+  height: 30px;
+  background-color: green;
+  border: 20px;
+  position: absolute;
+  top: 360px;
+  left: 400px;
+}
+
+.verticalpane {
+  width: 10px;
+  height: 300px;
+  background-color: white;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 640px;
+}
+
+.horizontalpane {
+  width: 500px;
+  height: 10px;
+  background-color: white;
+  border: 20px;
+  position: absolute;
+  top: 240px;
+  left: 400px;
+}
+
+
+
+
+.sky {
+  width: 300px;
+  height: 280px;
+  background-color: skyblue;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 500px;
+}
+
+.lcurtain {
+  width: 100px;
+  height: 550px;
+  background-color: salmon;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+}
+
+
+.rcurtain {
+  width: 100px;
+  height: 550px;
+  background-color: salmon;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 800px;
+}
+
+
+
+.sun {
+  width: 60px;
+  height: 60px;
+  background-color: gold;
+  border-radius: 50%;
+  position: absolute;
+  top: 150px;
+  left: 700px;
+}
+
+
+
+.rod {
+  width: 500px;
+  height: 20px;
+  background-color: grey;
+  border: 20px;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+}
+
+
+
+.rodknobl {
+  width: 40px;
+  height: 40px;
+  background-color: grey;
+  border-radius: 50%;
+  position: absolute;
+  top: 90px;
+  left: 380px;
+}
+
+
+
+
+.rodknobr {
+  width: 40px;
+  height: 40px;
+  background-color: grey;
+  border-radius: 50%;
+  position: absolute;
+  top: 90px;
+  left: 880px;
+}
