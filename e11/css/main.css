@@ -28,7 +28,7 @@ body {
 .clockrim {
   width: 150px;
   height: 150px;
-  background-color: pink;
+  background-color: #82bdbf;
   border-radius: 30px;
   border: 20px;
   position: absolute;
@@ -83,7 +83,7 @@ body {
 .grass {
   width: 500px;
   height: 30px;
-  background-color: green;
+  background-color: #8fbf62;
   border: 20px;
   position: absolute;
   top: 360px;
@@ -117,6 +117,7 @@ body {
   width: 300px;
   height: 280px;
   background-color: skyblue;
+  background-image: linear-gradient(#ff817d,#fc9d5d, #fcdc4c);
   border: 20px;
   position: absolute;
   top: 100px;
@@ -126,7 +127,7 @@ body {
 .lcurtain {
   width: 100px;
   height: 550px;
-  background-color: salmon;
+  background-color: #c2a8e3;
   border: 20px;
   position: absolute;
   top: 100px;
@@ -137,7 +138,7 @@ body {
 .rcurtain {
   width: 100px;
   height: 550px;
-  background-color: salmon;
+  background-color: #c2a8e3;
   border: 20px;
   position: absolute;
   top: 100px;
